@@ -1,0 +1,2 @@
+Remove Pin=R1-2 From Net=3.3V
+Change Component Designator: OldDesignator=U2 NewDesignator=U?
